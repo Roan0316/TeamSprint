@@ -3,7 +3,7 @@
 [![Frontend](https://img.shields.io/badge/Frontend-React-blue)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/Backend-.NET%208-brightgreen)](https://dotnet.microsoft.com/)
 [![Database](https://img.shields.io/badge/Database-SQL%20Server-orange)](https://www.microsoft.com/en-us/sql-server)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+![All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 TeamSprint is a web application tailored for software teams and students leveraging the Scrum methodology.  
 It offers a streamlined environment to manage tasks, organize sprints, and conduct retrospectives with a modern, intuitive interface.
@@ -55,3 +55,12 @@ Tracks development tasks:
 - Frontend pages, components, and state management  
 - Database schemas and relationships  
 - Testing, bug tracking, and QA
+
+---
+
+## License
+
+© 2025 Roan Stift. All rights reserved.
+
+This repository is for viewing purposes only.  
+No part of this project including code, design assets, or documentation—may be copied, modified, distributed, or used in any form without explicit written permission from the author.
