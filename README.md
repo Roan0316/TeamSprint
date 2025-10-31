@@ -6,7 +6,7 @@
 ![All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 TeamSprint is a web application tailored for software teams and students leveraging the Scrum methodology.  
-It offers a streamlined environment to manage tasks, organize sprints, and conduct retrospectives with a modern, intuitive interface.
+It provides a streamlined environment to manage tasks, organize sprints, and conduct retrospectives with a modern, intuitive interface.
 
 ---
 
@@ -18,16 +18,18 @@ It offers a streamlined environment to manage tasks, organize sprints, and condu
 - Run and participate in structured retrospectives  
 - Edit personal profiles and manage team members  
 
-The UI is designed with minimalism and clarity in mind, drawing inspiration from Apple and Ludi.co for a polished and user-friendly experience.
+The UI is designed with minimalism and clarity in mind, drawing inspiration from Apple and Ludi.co for a polished and user-friendly experience.  
+Animations and smooth interactions are implemented with **Framer Motion** for an intuitive user experience.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**
-- React with TypeScript  
-- Vite (or Create React App)  
-- Tailwind CSS  
+- React with JavaScript  
+- Next.js for server-side rendering and routing  
+- Framer Motion for animations and drag-and-drop interactions  
+- Tailwind CSS for styling and responsive design  
 
 **Backend**
 - .NET 8 Web API  
