@@ -26,7 +26,7 @@ Animations and smooth interactions are implemented with **Framer Motion** for an
 ## 🛠 Tech Stack
 
 **Frontend**
-- React with JavaScript  
+- React with Typescript  
 - Next.js for server-side rendering and routing  
 - Framer Motion for animations and drag-and-drop interactions  
 - Tailwind CSS for styling and responsive design  
